@@ -1,0 +1,8 @@
+{
+  "urls" : [
+    {
+      "url": "/shop",
+      "controller": "com.thesecurenode.Shop.Controllers.MainController"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "urls" : [
+        {
+            "url": "/editor",
+            "controller": "com.thesecurenode.Controllers.EditorController"
+        },
+        {
+            "url": "/post",
+            "controller": "com.thesecurenode.Controllers.PostController"
+        },
+        {
+            "url": "/user",
+            "controller": "com.thesecurenode.Controllers.UserController"
+        }
+
+    ]
+}
